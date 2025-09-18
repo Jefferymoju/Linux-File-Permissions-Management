@@ -16,4 +16,4 @@ This project demonstrates my experience using Linux commands to examine and mana
 - File system structure review and permission auditing.  
 
 **Deliverables / Files:**  
-- Full documentation of the project in a Word document: [View Full Documentation](docs/LinuxPermissions.docx)
+- Full documentation of the project in a Word document: [View Full Documentation](doc/File permissions in Linux.pdf)
